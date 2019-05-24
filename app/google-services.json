@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "996240488997",
+    "firebase_url": "https://ensenanza-chat.firebaseio.com",
+    "project_id": "ensenanza-chat",
+    "storage_bucket": "ensenanza-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996240488997:android:a3ab43b674012558",
+        "android_client_info": {
+          "package_name": "com.dublish.enseanzachat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996240488997-6ftqi5vgugljvpi73dde64j0h13pdq4a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dublish.enseanzachat",
+            "certificate_hash": "6a4c22cc258240b47f37c7bcb829a5b992dd8f3c"
+          }
+        },
+        {
+          "client_id": "996240488997-1kejmt54tr4r0hbume5g7k4jpk3b45ri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj4Nra4xzp5WriQV8AOndysd3Q5C21Dps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996240488997-1kejmt54tr4r0hbume5g7k4jpk3b45ri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
